@@ -1,4 +1,4 @@
-# PSUPlantEpidemiology.github.io
+# PDEatPSU.github.io
 Plant Disease Epidemiology at The Pennsylvania State University
 
 We are building a new website for the Esker Lab at the Pennsylvania State University. Our goal is to provide to everyone useful information about our efforts and our desire to share information to the world. We are committed to open communication and science, embrace diversity, and respect different views and opinions. 
